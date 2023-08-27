@@ -34,3 +34,10 @@
    # https://kernel.ubuntu.com/git/ubuntu-stable/ubuntu-stable-jammy.git
    ```
 
+##### 3 官方镜像源
+
+1. 官方镜像源信息：https://launchpad.net/ubuntu/
+2. 系统镜像：https://launchpad.net/ubuntu/+cdmirrors
+3. 软件包镜像：https://launchpad.net/ubuntu/+archivemirrors
+
+
